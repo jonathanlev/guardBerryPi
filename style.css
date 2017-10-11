@@ -1,0 +1,29 @@
+
+/* 
+    Created on : Oct 11, 2017
+    Author     : Jonathan Leventhal
+*/
+            
+            /* full-page background image */
+            html
+            {
+                background: url(background.jpg) no-repeat center center fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;}
+                
+                
+            body{
+   		 		width: 50%;
+    			margin: auto;}
+    			
+    			
+            #loginbox{
+            	width: 50%;
+    			margin: auto;
+    			text-align: center;
+    			text-transform: uppercase;
+    			margin-top: 30%;
+    			margin-bottom: 30%;}
+
